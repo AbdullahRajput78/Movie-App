@@ -1,17 +1,34 @@
-# movieapp
+# 🎬 Movie App
 
-A new Flutter project.
+A basic Flutter movie app created as a practice project to improve Flutter fundamentals and get hands-on experience with different widgets and UI layouts.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* Movie UI design
+* Movie search interface
+* Movie cards and details
+* Different Flutter widgets and layouts
+* Responsive UI practice
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Flutter Widgets
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+<p align="center">
+  <img src="AppScreenshots/login.jpeg" width="250">
+  <img src="AppScreenshots/login.jpeg" width="250">
+  <img src="AppScreenshots/search.jpeg" width="250">
+ 
+</p>
+
+
+## 📚 Purpose
+
+This project was mainly built for **Flutter practice and widget learning**. It focuses on understanding how Flutter widgets work together to create a complete mobile UI.
+
+> No state management solution was used in this project.
