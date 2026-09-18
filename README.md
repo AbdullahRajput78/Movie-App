@@ -21,7 +21,7 @@ A basic Flutter movie app created as a practice project to improve Flutter funda
 
 <p align="center">
   <img src="AppScreenshots/login.jpeg" width="250">
-  <img src="AppScreenshots/login.jpeg" width="250">
+  <img src="AppScreenshots/home.jpeg" width="250">
   <img src="AppScreenshots/search.jpeg" width="250">
  
 </p>
